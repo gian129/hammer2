@@ -1,2 +1,3 @@
 # hammer2
-ddos tool modified by me
+ddos tool "hammer" modified by me
+please instal requirements
